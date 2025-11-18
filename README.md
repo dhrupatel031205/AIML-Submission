@@ -226,14 +226,6 @@ Source 2: So long as people believe in the sanctity of the shastras...
 Source 3: The real enemy is the belief in the shastras.
 ```
 
-## Submission Requirements
-
-This repository contains all required deliverables:
-- ✅ Well-commented Python code (`main.py`)
-- ✅ Requirements file (`requirements.txt`)
-- ✅ Detailed README (`README.md`)
-- ✅ Speech text file (`speech.txt`)
-
 ## Future Enhancements
 
 Potential improvements for production use:
@@ -243,15 +235,3 @@ Potential improvements for production use:
 - Conversation memory
 - Performance optimization
 - Docker containerization
-
-## License
-
-This project is created for educational and assignment purposes.
-
-## Contact
-
-For questions about this assignment, contact: kalpiksingh2005@gmail.com
-
----
-
-**Good luck with your evaluation!** 🚀
