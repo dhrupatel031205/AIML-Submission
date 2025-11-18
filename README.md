@@ -41,7 +41,7 @@ You should see `mistral` in the list of installed models.
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/dhrupatel031205/AIML-Submission.git)
 cd AmbedkarGPT-Intern-Task
 ```
 
@@ -146,44 +146,6 @@ Your question: quit
 - Source document display
 - Test question demonstration
 - Easy quit functionality
-
-## Troubleshooting
-
-### Common Issues
-
-1. **Ollama Not Found**
-   ```
-   Error: Make sure Ollama is installed and Mistral model is pulled
-   ```
-   **Solution:** Install Ollama and run `ollama pull mistral`
-
-2. **Import Errors**
-   ```
-   ModuleNotFoundError: No module named 'langchain'
-   ```
-   **Solution:** Activate virtual environment and install requirements
-
-3. **Permission Errors**
-   ```
-   PermissionError: [Errno 13] Permission denied
-   ```
-   **Solution:** Run with administrator privileges or check directory permissions
-
-4. **Memory Issues**
-   ```
-   CUDA out of memory
-   ```
-   **Solution:** System uses CPU by default, but ensure sufficient RAM is available
-
-### Debug Mode
-For detailed debugging, modify the code to add more print statements or check the ChromaDB directory contents.
-
-## Performance Notes
-
-- **First Run:** Slower due to embedding generation and vector store creation
-- **Subsequent Runs:** Faster as ChromaDB persists the vector store
-- **Memory Usage:** Approximately 1-2GB RAM for full system
-- **Disk Space:** ~50MB for models and vector store
 
 ## Expected Output Example
 
