@@ -2,12 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) system for answering questions about Dr. B.R. Ambedkar's speech on caste and shastras.
 
-## Assignment Details
-
-**Company:** Kalpit Pvt Ltd, UK - AI Intern Hiring  
-**Assignment:** Phase 1 - Core Skills Evaluation - Building A Functional Prototype  
-**Task:** Build a command-line Q&A system using RAG pipeline with LangChain
-
 ## System Overview
 
 This system implements a complete RAG pipeline that:
